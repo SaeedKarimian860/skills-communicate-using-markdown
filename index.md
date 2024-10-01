@@ -4,3 +4,6 @@ I just created a header using markdown!
 ```Javascript
 let Character = "Hello, World!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
